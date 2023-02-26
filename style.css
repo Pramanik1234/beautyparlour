@@ -531,4 +531,7 @@ hr {
   text-align: center;
   color: white;
 }
+a:-webkit-any-link {
+  text-decoration: none;
+}
 
